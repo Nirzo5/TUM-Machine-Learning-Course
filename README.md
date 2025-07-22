@@ -9,10 +9,17 @@ Topics Covered
 1 Linear & Logistic Regression
 
 2 Decision Trees & Random Forests
+
 3 Naive Bayes & K-Nearest Neighbors
+
 4 Support Vector Machines (SVM)
+
 5 Evaluation Metrics (MSE, Accuracy, Precision, Recall, etc.)
+
 6 K-Means Clustering & PCA
+
 7 Gradient Descent Variants (SGD, SGA, Mini-Batch)
+
 8 Autoencoders for anomaly detection
+
 9 Python tools: NumPy, Pandas, Scikit-learn, Matplotlib
