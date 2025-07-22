@@ -5,7 +5,9 @@ This repository contains my hands-on projects and implementations from the Machi
 The course combined theoretical foundations with practical coding exercises using Python and its core data science libraries. Topics covered include both supervised and unsupervised learning, as well as dimensionality reduction and optimization techniques.
 
 Topics Covered
+
 1 Linear & Logistic Regression
+
 2 Decision Trees & Random Forests
 3 Naive Bayes & K-Nearest Neighbors
 4 Support Vector Machines (SVM)
